@@ -1,0 +1,15 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+/* Estilos personalizados para las flechas del carrusel */
+.custom-carousel .carousel-control-prev-icon,
+.custom-carousel .carousel-control-next-icon {
+    background-color: red; /* Cambia el color de fondo de las flechas */
+}
+
+/* Opcional: Cambia el color del contorno de las flechas */
+.custom-carousel .carousel-control-prev,
+.custom-carousel .carousel-control-next {
+    color: red; /* Cambia el color del contorno de las flechas */
+}
